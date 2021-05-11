@@ -1,0 +1,28 @@
+.footwear_heading{
+    font-size:2rem;
+    margin:3.5rem 0rem 1rem 1.9rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-weight:700;
+    color:#3e4152;
+}
+
+.footwear{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+    grid-gap:2rem;
+    padding:1rem 2rem;
+}
+
+@media screen and (max-width:580px) {
+    .footwear_heading{
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (max-width:568px) {
+   .footwear_heading{
+       font-size: 1rem;
+   }    
+}
