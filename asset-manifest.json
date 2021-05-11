@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactmyntraclone/static/css/main.abe1e950.chunk.css",
+    "main.js": "/reactmyntraclone/static/js/main.79883d8d.chunk.js",
+    "main.js.map": "/reactmyntraclone/static/js/main.79883d8d.chunk.js.map",
+    "runtime-main.js": "/reactmyntraclone/static/js/runtime-main.8dd8e2dd.js",
+    "runtime-main.js.map": "/reactmyntraclone/static/js/runtime-main.8dd8e2dd.js.map",
+    "static/css/2.86cfa7e9.chunk.css": "/reactmyntraclone/static/css/2.86cfa7e9.chunk.css",
+    "static/js/2.440cb9dd.chunk.js": "/reactmyntraclone/static/js/2.440cb9dd.chunk.js",
+    "static/js/2.440cb9dd.chunk.js.map": "/reactmyntraclone/static/js/2.440cb9dd.chunk.js.map",
+    "index.html": "/reactmyntraclone/index.html",
+    "static/css/2.86cfa7e9.chunk.css.map": "/reactmyntraclone/static/css/2.86cfa7e9.chunk.css.map",
+    "static/css/main.abe1e950.chunk.css.map": "/reactmyntraclone/static/css/main.abe1e950.chunk.css.map",
+    "static/js/2.440cb9dd.chunk.js.LICENSE.txt": "/reactmyntraclone/static/js/2.440cb9dd.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/reactmyntraclone/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dd8e2dd.js",
+    "static/css/2.86cfa7e9.chunk.css",
+    "static/js/2.440cb9dd.chunk.js",
+    "static/css/main.abe1e950.chunk.css",
+    "static/js/main.79883d8d.chunk.js"
+  ]
+}
